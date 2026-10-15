@@ -1,0 +1,166 @@
+{
+  "profile": {
+    "name": "Kimberley",
+    "email": "",
+    "goal": 25
+  },
+  "applications": [
+    {
+      "id": "bb887279-1fa9-40a0-a59c-96bfda8c5631",
+      "company": "Deloitte",
+      "role": "Technology Graduate Programme",
+      "location": "Dublin",
+      "salary": "€32k–€35k",
+      "stage": "Interview",
+      "dateApplied": "2026-10-02",
+      "deadline": "2026-10-20",
+      "link": "",
+      "notes": "Prepare examples for teamwork and problem solving.",
+      "source": "Email Sync",
+      "updatedAt": "2026-10-13T13:12:06.897Z"
+    },
+    {
+      "id": "5547e9bb-ac71-48db-8d02-594942454c3f",
+      "company": "EY",
+      "role": "Technology Consulting Graduate",
+      "location": "Dublin",
+      "salary": "",
+      "stage": "Assessment",
+      "dateApplied": "2026-10-05",
+      "deadline": "16 Oct 2026",
+      "link": "",
+      "notes": "Online assessment pending.",
+      "source": "Email Sync",
+      "updatedAt": "2026-10-13T13:20:22.760Z"
+    },
+    {
+      "id": "a8b0e151-5473-41e8-9907-0f148ff3a9ab",
+      "company": "KPMG",
+      "role": "Digital Transformation Graduate",
+      "location": "Dublin",
+      "salary": "",
+      "stage": "Applied",
+      "dateApplied": "2026-10-08",
+      "deadline": "",
+      "link": "",
+      "notes": "",
+      "source": "Manual",
+      "updatedAt": "2026-10-13T13:12:05.749Z"
+    },
+    {
+      "id": "aa58a1eb-932c-472f-9398-13e2681e55bc",
+      "company": "Accenture",
+      "role": "Analyst Graduate Programme",
+      "location": "Dublin",
+      "salary": "",
+      "stage": "Saved",
+      "dateApplied": "",
+      "deadline": "2026-10-25",
+      "link": "",
+      "notes": "",
+      "source": "Manual",
+      "updatedAt": "2026-10-13T13:12:05.749Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "7e571556-6881-4e17-b8fe-b1560ba2e52c",
+      "name": "Aoife Murphy",
+      "company": "Deloitte",
+      "title": "Graduate Recruiter",
+      "email": "aoife@example.com",
+      "notes": "Met at university careers fair."
+    }
+  ],
+  "documents": [
+    {
+      "id": "0f83fe39-0db1-4914-828a-afa9560df040",
+      "name": "Technology CV",
+      "type": "CV",
+      "version": "v3",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "f545bdc0-c5c4-4d49-8865-05397d4ea38e",
+      "name": "Consulting Cover Letter",
+      "type": "Cover Letter",
+      "version": "v2",
+      "updated": "2026-10-09"
+    }
+  ],
+  "interviews": [
+    {
+      "id": "0970a5d9-8535-4a4e-b01d-35f3325c46db",
+      "company": "Deloitte",
+      "role": "Technology Graduate Programme",
+      "date": "2026-10-18",
+      "time": "14:00",
+      "format": "Teams",
+      "notes": "Competency interview"
+    }
+  ],
+  "emailEvents": [
+    {
+      "id": "5b7ea94d-c589-422b-bc36-313be92b047a",
+      "subject": "Invitation to complete your online assessment",
+      "from": "graduate.recruitment@ey.com",
+      "snippet": "",
+      "receivedAt": "2026-10-13T13:20:22.760Z",
+      "company": "Ey",
+      "suggestedStage": "Assessment",
+      "confidence": 0.9,
+      "reason": "Assessment request detected",
+      "status": "applied",
+      "applicationId": "5547e9bb-ac71-48db-8d02-594942454c3f"
+    },
+    {
+      "id": "224ce3d9-c0fc-43dc-99c4-a9e53c73d97c",
+      "subject": "Invitation to complete your online assessment",
+      "from": "graduate.recruitment@ey.com",
+      "snippet": "",
+      "receivedAt": "2026-10-13T13:20:21.850Z",
+      "company": "Ey",
+      "suggestedStage": "Assessment",
+      "confidence": 0.9,
+      "reason": "Assessment request detected",
+      "status": "applied",
+      "applicationId": "5547e9bb-ac71-48db-8d02-594942454c3f"
+    },
+    {
+      "id": "eb7aa61b-ef18-404e-93ca-19413d757a48",
+      "subject": "Invitation to complete your online assessment",
+      "from": "graduate.recruitment@ey.com",
+      "snippet": "",
+      "receivedAt": "2026-10-13T13:20:20.501Z",
+      "company": "Ey",
+      "suggestedStage": "Assessment",
+      "confidence": 0.9,
+      "reason": "Assessment request detected",
+      "status": "applied",
+      "applicationId": "5547e9bb-ac71-48db-8d02-594942454c3f"
+    },
+    {
+      "id": "518bdd74-c07d-4203-ac92-4bfe02e2a063",
+      "subject": "Interview invitation with Deloitte",
+      "from": "recruitment@deloitte.ie",
+      "snippet": "",
+      "receivedAt": "2026-10-13T13:12:06.897Z",
+      "company": "Deloitte",
+      "suggestedStage": "Interview",
+      "confidence": 0.92,
+      "reason": "Interview invitation detected",
+      "status": "applied",
+      "applicationId": "bb887279-1fa9-40a0-a59c-96bfda8c5631"
+    }
+  ],
+  "gmail": {
+    "connected": false,
+    "email": "",
+    "accessToken": "",
+    "refreshToken": "",
+    "tokenExpiry": 0,
+    "historyId": "",
+    "watchExpiration": 0,
+    "lastSync": null
+  }
+}
